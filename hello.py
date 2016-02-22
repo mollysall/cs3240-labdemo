@@ -1,8 +1,6 @@
 
 __author__ = "mes3fn"
 
-def greeting(message):
-    print(message)
+import greeting() from helper.py
 
-
-print(hello)
+greeting(hello)
